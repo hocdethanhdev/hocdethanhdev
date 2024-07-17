@@ -15,5 +15,5 @@
 
 <p>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hocdethanhdev&show_icons=true&theme=vision-friendly-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hocdethanhdev&show_icons=true&locale=en&layout=compact" alt="hocdethanhdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hocdethanhdev&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hocdethanhdev" />
 </p>

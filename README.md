@@ -18,3 +18,6 @@ Welcome to my GitHub profile! I'm a dedicated **developer with a passion for tec
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/trí-trần-02736a285)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hocdethanhdev&show_icons=true&locale=en&layout=compact" alt="Thinhlp176" /></p>

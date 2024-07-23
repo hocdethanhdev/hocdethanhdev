@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SAP - System Application Programing**
 
-- 📫 How to reach me **tritrann03@gmail.com / trithse172306@fpt.edu.vn**
+- 📫 How to reach me **tritrann03@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

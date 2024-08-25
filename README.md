@@ -1,13 +1,9 @@
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋+there+I'm+Tran+Huu+Tri;System+Application+Programing;" alt="Headline" />
     </div>
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
@@ -15,17 +11,14 @@
 </div>
 
 
-<!--Intro start-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 - 🔭 I’m currently studying **SAP - System Application Programing at FPT UNIVERSITY Ho Chi Minh.**
 - 📫 Feel free to reach me out **tritrann03@gmail.com**
 
 
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -45,14 +38,12 @@
 </p>        
 
 
-
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,firebase,github,html,java,js,nginx,mysql,react,tailwind,ts,vscode,kubernetes&perline=14" />
@@ -60,21 +51,16 @@
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2></summary>
   </ul>
 </div>
 
-
 <p align="center">
 <a href = "https://www.linkedin.com/in/trí-trần-02736a285/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/hocdethanhdev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
-
-
 
 <div align="center">
   
@@ -83,7 +69,6 @@
 </div>
 
 
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
